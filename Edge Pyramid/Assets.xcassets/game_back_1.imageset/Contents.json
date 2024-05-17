@@ -1,0 +1,22 @@
+{
+  "images" : [
+    {
+      "filename" : "technja3_Ancient_egypt_background_2d_cartoon_style_maximum_deta_da234ace-48c4-46a6-b03b-ab113396d843.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "technja3_Ancient_egypt_background_2d_cartoon_style_maximum_deta_da234ace-48c4-46a6-b03b-ab113396d843 (1).png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
